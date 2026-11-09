@@ -1,0 +1,9 @@
+PWA CALCULADORA DE PRAZO
+Para usar no iPhone, publique estes arquivos em um endereço HTTPS (por exemplo, GitHub Pages).
+Depois, no iPhone:
+1. Abra o endereço no Safari.
+2. Toque em Compartilhar.
+3. Escolha Adicionar à Tela de Início.
+4. Confirme. O ícone ficará na tela principal.
+No Android, abra o endereço no Chrome e escolha Instalar app ou Adicionar à tela inicial.
+O site usa o relógio local do aparelho e funciona offline após a primeira abertura, graças ao service worker. O ZIP sozinho não instala: os arquivos precisam estar hospedados em HTTPS.
